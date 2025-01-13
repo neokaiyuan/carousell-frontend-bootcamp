@@ -34,5 +34,3 @@ root.render(
     </BrowserRouter>
   </Auth0Provider>
 );
-
-console.log(window.location.origin);
